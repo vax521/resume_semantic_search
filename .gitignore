@@ -1,0 +1,4 @@
+.ipynb_checkpoints/
+dureader_index
+dureader_index.json
+faiss_document_store.db
